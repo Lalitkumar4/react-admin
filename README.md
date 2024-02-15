@@ -1,6 +1,12 @@
 # React Admin
 Showcase of React Admin with JSON-Server REST API.
 
+## Dependencies 🛠️
+- `React.js`
+- `Material UI`
+- `react-admin`
+- `json-server`
+
 ## Usage
 #### Install dependencies
 
